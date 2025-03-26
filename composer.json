@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.6",
         "illuminate/support": ">=5.3",
-        "aowie1/pragmarx-support": ">=0.8.0"
+        "aowie1/pragmarx-support": "dev-master"
     },
     "repositories": [
         {
